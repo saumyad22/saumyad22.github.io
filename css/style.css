@@ -58,14 +58,22 @@ body {
     height: 200px;
     border-radius: 4px;
 
-    
-}
+  }
+
+   #education h2{
+    color: #4682B4;
+  }
+
 
 div .edu{
   background-color: #8d94ba;
   color: #fff;
   height: 250px;
   padding:5px 5px;
+}
+
+ #experience h2{
+  color: #4682B4
 }
 
 div .pro{
